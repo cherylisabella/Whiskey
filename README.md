@@ -1,4 +1,4 @@
-# Scotch Whiskey Recommendation System - Proof of Concept
+# Scotch Whiskey Recommendation System 
 
 ## Overview
 
@@ -62,6 +62,7 @@ The recommendation engine uses a **k-nearest neighbors (k-NN)** algorithm to sug
 ## UML Class Diagram
 
 Included in the repository is an **UML class diagram** outlining the ideal structure of the application, which helps visualize the relationships between the main components.
+<img src="Whiskey UML.jpg" width="500" style="display:block; margin: 0 auto;"/>
 
 ## Flask Application
 
